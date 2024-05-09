@@ -1,0 +1,12 @@
+#background {
+  height: 100vh;
+}
+
+.imgstile {
+  max-width: 300px;
+  max-height: 250px;
+}
+
+.cardstile {
+  height: 400px;
+}
